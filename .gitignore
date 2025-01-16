@@ -1,0 +1,17 @@
+# Build outputs
+*.bin
+*.img
+*.o
+*.elf
+
+# OS-specific files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*~
+
+# QEMU files
+*.qcow2 
